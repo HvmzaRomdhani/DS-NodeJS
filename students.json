@@ -1,0 +1,97 @@
+{
+    "101209": {
+        "classe": "GLSI",
+        "modules": [
+            {
+                "module": "Spring",
+                "note": 17
+            },
+            {
+                "module": "Angular",
+                "note": 13
+            },
+            {
+                "module": "Agile",
+                "note": 10
+            }
+        ],
+        "moyenne": 13.3333333333,
+        "nom": "akach hassen"
+    },
+    "362408": {
+        "classe": "GLSI",
+        "modules": [
+            {
+                "module": "Spring",
+                "note": 18
+            },
+            {
+                "module": "Angular",
+                "note": 17
+            },
+            {
+                "module": "Agile",
+                "note": 16
+            }
+        ],
+        "moyenne": 17,
+        "nom": "romdhani hamza"
+    },
+    "580869": {
+        "classe": "GLSI",
+        "modules": [
+            {
+                "module": "Spring",
+                "note": 16
+            },
+            {
+                "module": "Angular",
+                "note": 14
+            },
+            {
+                "module": "Agile",
+                "note": 15
+            }
+        ],
+        "moyenne": 15,
+        "nom": "torki adem"
+    },
+    "600599": {
+        "classe": "GLSI",
+        "modules": [
+            {
+                "module": "Spring",
+                "note": 8
+            },
+            {
+                "module": "Angular",
+                "note": 11
+            },
+            {
+                "module": "Agile",
+                "note": 10
+            }
+        ],
+        "moyenne": 9.666666666666666,
+        "nom": "iyed hadj hssan"
+    },
+    "693335": {
+        "classe": "GLSI",
+        "modules": [
+            {
+                "module": "Spring",
+                "note": 17
+            },
+            {
+                "module": "Angular",
+                "note": 11
+            },
+            {
+                "module": "Agile",
+                "note": 10
+            }
+        ],
+        "moyenne": 12.666666666666666,
+        "nom": "john doe"
+    }
+}
